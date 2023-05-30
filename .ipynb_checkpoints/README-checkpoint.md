@@ -4,4 +4,3 @@ AutoGluon library is used to train several models for the Bike Sharing Demand Co
 https://www.kaggle.com/c/bike-sharing-demand/
 Tabular prediction is used to fit data from CSV files provided by the competition.
 Cloud based IDE Amazon SageMaker Studio is used.
-AWS Integrition.

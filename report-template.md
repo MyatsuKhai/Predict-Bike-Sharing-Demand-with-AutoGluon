@@ -24,7 +24,7 @@ If I were given more time with this dataset, I would spend more time in EDA to g
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|time_limit|Preset|num_trials|num_folds||score|
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 |initial|600|best_quality|default|default||1.79095|
 |add_features|800|best_quality|default|default||0.61633|
 |hpo-LightGBM Model|900|best_quality|8|14||0.56658|
